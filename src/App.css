@@ -17,7 +17,7 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-/* �ㅻ뜑 */
+
 .header {
   display: flex;
   background-color: rgba(251, 130, 255, 0.331);
@@ -30,7 +30,7 @@ p {
   font-size: 1.2rem;
   margin-left: 4.4px;
 }
-/* input �쒓렇 */
+
 .header > input {
   all: unset;
   background-color: white;
@@ -93,7 +93,7 @@ h2 {
   padding: 8px 26px;
   margin-left: 50px;
 }
-/* 踰꾪듉 �④낵二쇨린 */
+
 .delbtn:hover {
   background-color: palevioletred;
   color: white;
